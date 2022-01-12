@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMEI Scanner</string>
+    <string name="upload_file">Upload IMEI File</string>
+    <string name="check_imei">Check IMEI</string>
+    <string name="see_results">See Results</string>
+    <string name="total_imei">Total IMEI :</string>
+    <string name="checked">Checked :</string>
+    <string name="start_checking_imei">Start Checking IMEI</string>
+    <string name="stop_checking_imei">Stop Checking IMEI</string>
+    <string name="instruction_text">Please upload file as instructed, \n** Must have title row.\n**Only csv file allowed.</string>
+    <string name="found_text">এগুলো বিটিআরসি ডাটাবেসে পাওয়া গেছে</string>
+    <string name="menu_found_text">IMEI পাওয়া গেছে</string>
+    <string name="not_found_text">এগুলো বিটিআরসি ডাটাবেসে পাওয়া যায় নাই</string>
+    <string name="menu_not_found_text">IMEI পাওয়া যায় নাই</string>
+</resources>
